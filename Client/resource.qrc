@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.gif</file>
+        <file>../../../../mnt/hgfs/SharingFileVM/1.jpg</file>
+    </qresource>
+</RCC>
